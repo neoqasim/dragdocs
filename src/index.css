@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 ::selection{
-    color: rgb(141, 200, 255);
+    color: rgb(247, 222, 0);
 }
